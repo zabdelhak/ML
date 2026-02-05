@@ -68,42 +68,41 @@ C:.
 │   .gitattributes
 │   README.md
 │
-└───wind_prediction_21_07_2025(2)
-    └───wind_prediction_21_07_2025
-        ├───Ain Benien
-        │       ain_benien_wind_prediction_21_07_2025.ipynb
-        │       weibull_comparaison_ainbenian.png
-        │
-        ├───Alger Port
-        │       alger_port_wind_prediction_21_07_2025.ipynb
-        │
-        ├───Bordj El Bahri
-        │       bordj_el_bahri_wind_prediction_21_07_2025.ipynb
-        │       weibull_comparaison_bordj_el_bahri.png
-        │
-        ├───code_telechargement_ERA5
-        │       telechargement de donnée era5 wind10m.py
-        │
-        ├───El Harrach
-        │       El_harrach_wind_prediction_21_07_2025.ipynb
-        │       weibull_comparaison_ElHarrach.png
-        │
-        ├───Houari Boumadiene
-        │       Houari_Boumediene_wind_prediction_21_07_2025.ipynb
-        │       weibull_comparaison_ainbenian.png
-        │       weibull_comparaison_Houari_Boumediene.png
-        │
-        ├───Mhalma
-        │       Mahlema_wind_prediction_21_07_2025.ipynb
-        │       weibull_comparaison_Mehalma.png
-        │
-        ├───Ouad Kouarich
-        │       Oued_Kouraich_wind_prediction_21_07_2025.ipynb
-        │
-        ├───Reghaia
-        │       Reghaia_wind_prediction_21_07_2025.ipynb
-        │       weibull_comparaison_Reghaia.png
-        │
-        └───Tessala
-                Tessala_wind_prediction_21_07_2025.ipynb
-                weibull_comparaison_TESSALA.png
+└───wind_prediction_21_07_2025
+    ├───Ain Benien
+    │       ain_benien_wind_prediction_21_07_2025.ipynb
+    │       weibull_comparaison_ainbenian.png
+    │
+    ├───Alger Port
+    │       alger_port_wind_prediction_21_07_2025.ipynb
+    │
+    ├───Bordj El Bahri
+    │       bordj_el_bahri_wind_prediction_21_07_2025.ipynb
+    │       weibull_comparaison_bordj_el_bahri.png
+    │
+    ├───code_telechargement_ERA5
+    │       telechargement de donnée era5 wind10m.py
+    │
+    ├───El Harrach
+    │       El_harrach_wind_prediction_21_07_2025.ipynb
+    │       weibull_comparaison_ElHarrach.png
+    │
+    ├───Houari Boumadiene
+    │       Houari_Boumediene_wind_prediction_21_07_2025.ipynb
+    │       weibull_comparaison_ainbenian.png
+    │       weibull_comparaison_Houari_Boumediene.png
+    │
+    ├───Mhalma
+    │       Mahlema_wind_prediction_21_07_2025.ipynb
+    │       weibull_comparaison_Mehalma.png
+    │
+    ├───Ouad Kouarich
+    │       Oued_Kouraich_wind_prediction_21_07_2025.ipynb
+    │
+    ├───Reghaia
+    │       Reghaia_wind_prediction_21_07_2025.ipynb
+    │       weibull_comparaison_Reghaia.png
+    │
+    └───Tessala
+            Tessala_wind_prediction_21_07_2025.ipynb
+            weibull_comparaison_TESSALA.png
