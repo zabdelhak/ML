@@ -10,15 +10,6 @@ Ce projet vise à développer des  modèles de machine learning pour  la prédic
 
 
 ---
-
-## 🧠 Problématique
-Décrire clairement le problème traité :
-- Quel est le besoin ?
-- Quel est le type de ML ? (supervisé, non supervisé, deep learning, etc.)
-- Quel est l’output attendu ?
-
----
-
 ## 📊 Dataset
 - **Source** : centre de developpement des ennergies renouvlables
 
