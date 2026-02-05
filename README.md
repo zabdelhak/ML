@@ -7,8 +7,6 @@ Ce projet vise à développer des  modèles de machine learning pour  la prédic
 - Comprendre / résoudre le problème de donneés satilitaires
 - Entraîner et évaluer un modèle de Machine Learning
 - Comparer différentes approches / algorithmes
-
-
 ---
 ## 📊 Dataset
 - **Source** : centre de developpement des ennergies renouvlables
