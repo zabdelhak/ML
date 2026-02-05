@@ -64,6 +64,7 @@ Ce projet vise à développer des  modèles de machine learning pour  la prédic
 
 ---
 ## 📂 Structure du projet
+```text
 C:.
 │   .gitattributes
 │   README.md
