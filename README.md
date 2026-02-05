@@ -1,4 +1,4 @@
-# 📌 Nom du projet
+# 📌 Prediction des vitesse de vent par sites
   
 Ce projet vise à développer des  modèles de machine learning pour  la prédiction de la vitesse de vent a laide des données mesure et des données satilitaires 
 ---
